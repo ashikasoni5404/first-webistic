@@ -1,0 +1,16 @@
+.cardd {
+  margin-top: 10px;
+}
+
+.card-image {
+  width: 150px;
+}
+
+.card-text {
+  font-size: 15px;
+  font-family: cursive;
+  text-transform: capitalize;
+  line-height: 25px;
+  text-align: center;
+  font-weight: lighter;
+}
