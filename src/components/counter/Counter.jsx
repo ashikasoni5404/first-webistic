@@ -14,7 +14,7 @@ const Counter = () => {
                         </div>
                         <div className="col count">
                             <span><i class="fa fa-heart-o"></i></span>
-                            <span>10</span>
+                            <span className="num">10</span>
                             <span>Awards</span>
                         </div>
                         <div className="col count"><span><i class="fa fa-code"></i></span>
