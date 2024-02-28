@@ -15,12 +15,14 @@ const Custom = () => {
                         Our Synthesis Service team chemists are skilled in performing complex, multi-step synthesis and solving challenging chemistry problems. Our Analytical Services team consists of highly skilled scientists with expertise in modern analytical techniques, supported by state-of-the-art instruments.
                     </h3>
                 </div>
-                <div className="img-sec">
-                <img  className="c-img" src="https://artisbiotech.com/images/laptops1.png" class="img-fluid" alt="https://artisbiotech.com/images/laptops1.png"/>
-                </div>
             </div>
 
-           
+           <div className="container-fluid h-50 " >
+           <div className="row">
+           <img  src="https://artisbiotech.com/images/laptops1.png" class="img-fluid cus-img" alt="https://artisbiotech.com/images/laptops1.png"/>
+
+           </div>
+           </div>
           
            
           
