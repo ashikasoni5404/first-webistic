@@ -1,0 +1,49 @@
+.c-head{
+    color: #324545;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    position: relative;
+    font-family: "Oswald", "Open Sans", sans-serif;
+    line-height: 40px;
+
+} 
+.line-container {
+    width: 250px;
+    color: aqua;
+    margin: 0 auto; /* Center alignment */
+    text-align: center;
+    cursor: pointer;
+  }
+  .line-container .line {
+    border-bottom: 2px solid aqua;
+    line-height: 0.1em; /* Adjust line height to control the thickness */
+    margin: 10px 0;
+  }
+  .line-container .line span {
+    background: white; /* To cover the 'O' */
+    padding: 0 10px;
+  }
+.c-content{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.c-para{
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+    line-height: inherit;
+}
+.img-sec{
+text-align: center;
+margin-top: 10px;
+
+}
+.c-img{
+   max-width: 2000px;
+   
+    
+}
+  
