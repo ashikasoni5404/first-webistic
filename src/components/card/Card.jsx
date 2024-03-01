@@ -5,7 +5,6 @@ const Card = () => {
 
     return (
         <>
-            <br /> <br />
             <section className="cardd ">
                 <div className="container">
                     <div className="row">
@@ -42,6 +41,7 @@ const Card = () => {
                     </div>
                 </div>
             </section>
+            
         </>
     )
 };

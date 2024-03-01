@@ -4,7 +4,7 @@ import "./template.css"
 const Template = () => {
     return (
         <>
-            <div className=".container-fluid ">
+            <div className="container ">
                 <div className="row temp-box">
                     <div className="col-md ">
                         <img className="temp-image" src="https://wallpapers.com/images/high/science-lab-background-1600-x-1066-0qtvnv04om24l3am.webp" alt="#" />

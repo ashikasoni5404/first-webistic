@@ -9,7 +9,7 @@ import Custom from './components/custom/Custom';
 function App() {
   return (
     <div className="App">
-    <Custom/>
+     <Counter/>
 
       
     </div>
